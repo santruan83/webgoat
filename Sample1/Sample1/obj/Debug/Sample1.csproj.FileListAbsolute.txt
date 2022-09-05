@@ -1,0 +1,7 @@
+C:\Program Files\Fortify\Fortify_SCA_and_Apps_20.2.0\Samples\advanced\csharp\VS2019\.NetFramework4.8\Sample1\Sample1\bin\Debug\Sample1.exe.config
+C:\Program Files\Fortify\Fortify_SCA_and_Apps_20.2.0\Samples\advanced\csharp\VS2019\.NetFramework4.8\Sample1\Sample1\bin\Debug\Sample1.exe
+C:\Program Files\Fortify\Fortify_SCA_and_Apps_20.2.0\Samples\advanced\csharp\VS2019\.NetFramework4.8\Sample1\Sample1\bin\Debug\Sample1.pdb
+C:\Program Files\Fortify\Fortify_SCA_and_Apps_20.2.0\Samples\advanced\csharp\VS2019\.NetFramework4.8\Sample1\Sample1\obj\Debug\Sample1.csproj.AssemblyReference.cache
+C:\Program Files\Fortify\Fortify_SCA_and_Apps_20.2.0\Samples\advanced\csharp\VS2019\.NetFramework4.8\Sample1\Sample1\obj\Debug\Sample1.csproj.CoreCompileInputs.cache
+C:\Program Files\Fortify\Fortify_SCA_and_Apps_20.2.0\Samples\advanced\csharp\VS2019\.NetFramework4.8\Sample1\Sample1\obj\Debug\Sample1.exe
+C:\Program Files\Fortify\Fortify_SCA_and_Apps_20.2.0\Samples\advanced\csharp\VS2019\.NetFramework4.8\Sample1\Sample1\obj\Debug\Sample1.pdb
