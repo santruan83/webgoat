@@ -1,9 +1,4 @@
 # ASP.NET
-- task: FortifyDynamicAssessment@7
-  inputs:
-    ScanSettings: 'Default'
-    APIRoot: 'http://10.1.204.202:8089/webinspect/api/v1/'
-    ScanResultsLocation: 'C:\agent\scans'
 # Build and test ASP.NET projects.
 # Add steps that publish symbols, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/apps/aspnet/build-aspnet-4
